@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TheCats100/wilderNode/issues"
   },
-  "homepage": "https://github.com/TheCats100/wilderNode#readme"
+  "homepage": "https://github.com/TheCats100/wilderNode#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
 }
